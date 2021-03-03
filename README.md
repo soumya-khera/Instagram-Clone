@@ -23,16 +23,6 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='# Project 3 - *Name of App Here*
-
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
-
-Time spent: **X** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
