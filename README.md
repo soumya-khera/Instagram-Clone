@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.dropbox.com/s/c56416zu5kvilxv/Instagram%21.mov?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video src='https://www.dropbox.com/s/c56416zu5kvilxv/Instagram%21.mov?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
